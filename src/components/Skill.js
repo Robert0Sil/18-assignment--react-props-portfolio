@@ -8,7 +8,7 @@ _genSkillJsx(){
     // console.log(skillStr);
     return <span className="skills-list__single" key={index}>{skillStr}</span>
   })
-    return skillsListArr
+    return skillArr
     // console.log(skillArr);
 }
 
